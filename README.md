@@ -1,2 +1,2 @@
-# synaptopodin
-A set of scripts for protein cluster area calculation
+# cluster area analysis
+A simple script to select clusters within the cell and calculate their area in pixels.
